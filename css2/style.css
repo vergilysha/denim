@@ -1,0 +1,155 @@
+*{
+	
+	box-sizing: border-box;
+	font-family: Work Sans;
+
+}
+
+.container{
+	width: 1190px;
+	display: flex;
+	justify-content: space-between;
+	margin: 0 auto;
+	align-items: center;
+
+}
+.header-nav{
+	display: flex;
+	justify-content: space-between;
+	width: 190px;
+
+
+}
+.header-item{
+	list-style-type: none;
+
+}
+.header-item-link{
+	color: black;
+}
+.main{
+	height: 400px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-direction: column;
+	background: #F1F2F4;
+}
+.main1{
+	height: 700px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-direction: column;
+
+}
+.cotn{
+	width: 600px;
+	height: 300px;
+	display:flex;
+	align-items: ;
+
+
+}
+.snapir{
+	width: 299px;
+	height: 260px;
+
+}
+.cotext{
+	width: 300px;
+	height: 300px;
+	display: flex;
+	align-items: center;
+}
+.context{
+	color: #727A82;
+}
+.dicont{
+	font-size: 30px;
+}
+.div{
+	width: 270px;
+	height: 190px;
+}
+.hed{
+	width: 1100px;
+	height: px;
+	display: flex;
+	justify-content: flex-end;
+	align-content: flex-end;
+	flex-wrap: wrap;
+}
+
+.galleryphotos{
+	width: 1300px;
+	height: 350px;
+	border: 1px solid grey;	
+	display: flex;
+	justify-content: space-between;
+	flex-wrap: wrap;
+}
+
+.mainheader{
+	height: 60px;
+}
+.gallery{
+	display: flex;
+	justify-content: center;
+	flex-direction: column;
+}
+.maititile{
+	width: 243px;
+	height: 50px;
+	display: flex;
+	border: 3px solid grey;
+	align-items: center;
+	justify-content: space-around;
+}
+.upbottontext{
+height: 200px;
+display: flex;
+justify-content: center;
+align-items: center;
+flex-direction: column;
+}
+.upbtext{
+	width: 199px;
+}
+.line{
+	width: 199px;
+	height: 2px;
+}
+.line1{
+	width: 39px;
+	height: 1px;
+	background: black;
+
+
+}
+.line2{
+	width: 160px;
+	height: 1px;
+	background: grey;
+}
+.footer{
+	background: black;
+	height: 200px;
+	width: 1500px;
+	color: white;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	font-family: Work Sans
+}
+.footer_row{
+	width: 400px;
+	height: 50px;
+	display: flex;
+	justify-content: space-around;
+	font-family:	Work Sans; 
+}
+.image{
+	width: 30px;
+	height: 30px;
+}
